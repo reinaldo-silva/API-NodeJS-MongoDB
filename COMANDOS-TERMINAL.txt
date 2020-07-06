@@ -1,0 +1,18 @@
+npm init -y
+
+yarn add express
+
+yarn add body-parser // node entenda as url http
+
+yarn add mongoose // instalando mongo
+
+yarn add bcryptjs 
+
+yarn add jsonwebtoken
+
+yarn add fs path
+
+yarn add nodemailer
+
+yarn add nodemailer-express-handlebars
+
